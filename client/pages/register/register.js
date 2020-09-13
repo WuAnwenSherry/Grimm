@@ -78,7 +78,7 @@ Page({
       })
       return;
     }
-
+    2019A->front
     register({
       phone: this.data.phone,
       name: this.data.name,
